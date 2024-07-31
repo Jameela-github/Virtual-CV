@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Virtual CV of Jameela Sparks</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-- the vision for this cv will be different from my original cv in a few-->
+    <div class="outer-container">
+      <div class="top-container">
+        <h1>Jameela Sparks</h1>
+        <img
+          src="cv .jpg"
+          alt="Block Image"
+          class="profile-pic"
+          style="border-radius: 0%; width: 150px; height: 150px"
+        />
+      </div>
+      <h2>About Me</h2>
+      <div class="text-below-pic">
+        <p>
+          I am cool and extraodinary.
+          <nl
+            >i figured it out, i think and now i have to do the hard stuff."</nl
+          >
+          i went to school and now i wanna quit
+        </p>
+      </div>
+    </div>
+
+    <div class="middle-container">
+      <div class="bubble">
+        <h3>Education</h3>
+        <ul>
+          <li>Bullet point 1</li>
+          <li>Bullet point 2</li>
+        </ul>
+      </div>
+      <div class="bubble">
+        <h3>Skills</h3>
+        <ul>
+          <li>Bullet point 1</li>
+          <li>Bullet point 2</li>
+          <li>Bullet point 3</li>
+          <li>Bullet point 4</li>
+          <li>Bullet point 5</li>
+        </ul>
+      </div>
+      <div class="bubble">
+        <h3>Interests</h3>
+        <ul>
+          <li>Bullet point 1</li>
+          <li>Bullet point 2</li>
+          <li>Bullet point 3</li>
+          <li>Bullet point 4</li>
+          <li>Bullet point 5</li>
+        </ul>
+      </div>
+      <div class="bubble">
+        <h3>Experince</h3>
+        <ul>
+          <li>Bullet point 1</li>
+          <li>Bullet point 2</li>
+          <li>Bullet point 3</li>
+          <li>Bullet point 4</li>
+          <li>Bullet point 5</li>
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>
