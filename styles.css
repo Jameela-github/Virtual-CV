@@ -38,7 +38,7 @@ body{
 }
 
 .top-container h1{
-    margin: 20px;
+    margin: 10px;
     font-size: 20px;
     color: blanchedalmond;
    
@@ -53,11 +53,10 @@ body{
 }
 
 .text-below-pic{
-    width: 50%;
-    text-align: left;
+    width: 70%;
     color: blanchedalmond;
-    align-items: left;
-    margin: 0px;
+    align-items: center;
+    
 
 }
 
@@ -74,7 +73,13 @@ body{
     font-size: 20px;
     color: blanchedalmond;
     text-align: left;
+    margin-bottom: 0px;
     
+}
+
+.outer-container h4{
+    font-size: 20px;
+    color: blanchedalmond;
 }
 
 .text-below-pic v{
@@ -129,7 +134,7 @@ body{
     font-size: 2em;
     text-decoration: none;
     align-items: left;
-    margin: 0px;
+    margin: 10px;
     transition: transform 0.2s;
 
 }
@@ -148,5 +153,9 @@ body{
 }
 
 .github-icon:hover{
+    transform: scale(1.1);
+}
+
+.bubble:hover{
     transform: scale(1.1);
 }
