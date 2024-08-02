@@ -1,1 +1,5 @@
-sass: sass_dir: assets/css
+# _config.yml
+title: My Virtual CV
+baseurl: "" # Base URL for the site
+url: "https://your-github-username.github.io" # Replace with your GitHub username
+
